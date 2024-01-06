@@ -1,0 +1,29 @@
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.exe
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.deps.json
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.runtimeconfig.json
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.dll
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.pdb
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.AssemblyReference.cache
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfoInputs.cache
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfo.cs
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.CoreCompileInputs.cache
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.dll
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\refint\Fibonachi.dll
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.pdb
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.genruntimeconfig.cache
+D:\_Prog\_Resume\CS\Fibonachi\Fibonachi\obj\Debug\net6.0\ref\Fibonachi.dll
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.exe
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.deps.json
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.runtimeconfig.json
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.dll
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.pdb
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfoInputs.cache
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfo.cs
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.CoreCompileInputs.cache
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.dll
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\refint\Fibonachi.dll
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.pdb
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.genruntimeconfig.cache
+D:\_Pro LIFE\(ProMood)\Free-Hand\_MORE\Fibonachi\Fibonachi\obj\Debug\net6.0\ref\Fibonachi.dll
